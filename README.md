@@ -5,3 +5,4 @@ For part A colab:
 - Send the folder name to the function mask_prediction.
 - if prediction is 0 then the face in the image contains mask, else if it is 1 then it doesn't contain mask.
 - For now I have just added print statement and the image location for target 0 and 1, which can then be replaced by GAN for 0 and Classification model for 1.
+- Github link : https://drive.google.com/drive/folders/1ZFN9LBwMMDP0j957ktkTbluk0YtRFZEJ?usp=sharing
